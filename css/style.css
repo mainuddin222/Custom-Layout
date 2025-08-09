@@ -1,0 +1,36 @@
+.header, .hero, .body, .bar, .footer{
+    background-color: #173143;
+    margin-bottom: 10px;
+}
+
+.box{
+    /* height: 80px; */
+    background-color: #23b99c;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 20px 0px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.box:hover{
+    background-color: #2fddba;
+}
+
+.three{
+    background-color: #ffb74d;
+}
+
+
+.three:hover{
+    background-color: #ff9f0f;
+}
+
+
+.five{
+    background-color: #ff5e5f;
+}
+
+.five:hover{
+    background-color: #ff3939;
+}
